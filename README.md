@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9wNzN2aDZ2eHZnaGFoeTdxeHozOTZtNmxxZTMzZHA5a3BhenZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB4YXNhcWM0MnE5M2d5ZDh6aXN3OWZrdXB5aWh0MHlqbjJ0ejdlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPn3b0I6yEwk8VO/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mrinmoy-goswami-83a1431b7">
@@ -15,6 +15,10 @@
 </div>
 <div align="center"> 
 <img  src="https://komarev.com/ghpvc/?username=your-github-Mrinmoy-Goswami&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h1>
 </div>
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4YXQwdm1xbnAzZHZsM3kyY3M5bmVnOWl5czQ0cXNiZHV2a3p4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="500"/>
@@ -22,7 +26,7 @@
 👨‍🚀About Me :
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Currently exploring Cloud and DevOPs.
+- :seedling: Currently exploring React Native , Cloud and DevOPs.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks , read tech articles and play FIFA 🕹⚽.
 
@@ -49,6 +53,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title='Vite' alt='Vite' width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title='VS Code' alt='VS Code' width="40" height="40"/> &nbsp;
 </div>
+
+### :fire: My Stats : &nbsp;
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrinmoy-Goswami&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmoy-Goswami&layout=compact&theme=vision-friendly-dark"> </a>
+
+
+</div>
+
+
+
 
 
 
