@@ -1,7 +1,8 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9wNzN2aDZ2eHZnaGFoeTdxeHozOTZtNmxxZTMzZHA5a3BhenZ6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width=100"/>
 </div>
+
 
 <!--
 **Mrinmoy-Goswami/Mrinmoy-Goswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
