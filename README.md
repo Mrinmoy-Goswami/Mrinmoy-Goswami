@@ -58,9 +58,15 @@
 <div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrinmoy-Goswami&theme=dark" alt="GitHub Streak" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmoy-Goswami&layout=compact&theme=vision-friendly-dark"> </a>
-
-
 </div>
+<div>
+  
+📊 Top Languages:
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinmoy-Goswami&layout=compact&theme=vision-friendly-dark)](https://github.com/Mrinmoy-Goswami/github-readme-stats)
+
+
 
 
 
