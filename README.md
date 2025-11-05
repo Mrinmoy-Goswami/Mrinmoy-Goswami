@@ -24,7 +24,18 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4YXQwdm1xbnAzZHZsM3kyY3M5bmVnOWl5czQ0cXNiZHV2a3p4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="500"/>
 </div>
 👨‍🚀About Me :
-- :telescope: I’m working as a Software Engineer(1.5+ YOE) and contributing to frontend and backend for building scalable web applications.I'm familiar with building backends with serverless architecture with AWS and modular ,optimized, scalable, typesafe UI with React.
+- :telescope: Software Engineer with 1+ years of hands-on experience in software development using React.js, TypeScript, Node.js,
+ MongoDB,PostgreSQL. Proven ability to build scalable web apps, optimize performance, and collaborate across teams. Pas
+sionate about solving real-world problems through clean, maintainable code and modern software architecture.
+Previous work experience :  
+ • Collaborated with cross-site teams to build an internal web app with production-grade UIs for a major energy
+ client using React.js, TypeScript, and MUI, powering daily workflows for 30k+ enterprise users.
+ • Engineered Web Worker based solutions to handle heavy client-side computations (16M+ calculations), reducing
+ load time (from around 16s to 4s) and ensuring a smooth user experience.
+ • Leveraged React Query for efficient data fetching, caching, and state synchronization, improving responsiveness
+ and reducing redundant API calls.
+ • Collaborated with backend teams on PostgreSQL queries and AWS, while following Agile practices (Scrum
+ sprints, Kanban, Jira, Daily standups)
 
 - :seedling: Currently exploring React Native , Cloud.
 
