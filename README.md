@@ -24,11 +24,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4YXQwdm1xbnAzZHZsM3kyY3M5bmVnOWl5czQ0cXNiZHV2a3p4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="500"/>
 </div>
 👨‍🚀About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer(1.5+ YOE) and contributing to frontend and backend for building scalable web applications.I'm familiar with building backends with serverless architecture with AWS and modular ,optimized, scalable, typesafe UI with React.
 
-- :seedling: Currently exploring React Native , Cloud and DevOPs.
+- :seedling: Currently exploring React Native , Cloud.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks , read tech articles and play FIFA 🕹⚽.
+- :zap: In my free time, I solve problems on LeetCode , read tech articles and play FIFA 🕹⚽.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrinmoy-goswami-83a1431b7)
   ### :hammer_and_wrench: Languages and Tools :
