@@ -24,10 +24,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR4YXQwdm1xbnAzZHZsM3kyY3M5bmVnOWl5czQ0cXNiZHV2a3p4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="600" height="500"/>
 </div>
 👨‍🚀About Me :
-- :telescope: Software Engineer with 1+ years of hands-on experience in software development using React.js, TypeScript, Node.js,
+- :telescope: Software Engineer with 1.5+ years of hands-on experience in software development using React.js, TypeScript, Node.js,
  MongoDB,PostgreSQL. Proven ability to build scalable web apps, optimize performance, and collaborate across teams. Pas
 sionate about solving real-world problems through clean, maintainable code and modern software architecture.
 Previous work experience :  
+ • Delivered end-to-end product features for a pharmaceutical client under tight deadlines by adopting an AI-native development approach. Combined Claude Code for implementation, Figma MCP for design integration, and Playwright MCP for automated testing — reducing delivery time by nearly half.
  • Collaborated with cross-site teams to build an internal web app with production-grade UIs for a major energy
  client using React.js, TypeScript, and MUI, powering daily workflows for 30k+ enterprise users.
  • Engineered Web Worker based solutions to handle heavy client-side computations (16M+ calculations), reducing
